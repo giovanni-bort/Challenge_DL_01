@@ -1,0 +1,983 @@
+09-Jul-2020 09:53:56-> ERROR: file:     1 Key:A;  Undefined function 'quadr' for input arguments of type 'double'. LAST_ECG_07_07_function line:921
+09-Jul-2020 10:09:39-> ERROR: file:     1 Key:A;  Undefined function 'STRUCT' for input arguments of type 'double'. LAST_ECG_07_07_function line:1002
+09-Jul-2020 10:13:05-> ERROR: file:     1 Key:A;  Too many input arguments. LAST_ECG_07_07_function line:836
+09-Jul-2020 10:13:05-> ERROR: file:     1 Key:A;  Too many input arguments. LAST_ECG_07_07_function line:836
+09-Jul-2020 19:27:43-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:29:14-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:29:36-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 19:29:41-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 19:29:52-> ERROR: file:     1 Key:A;  License checkout failed.
+License Manager Error -4
+Maximum number of users for Signal_Toolbox reached. 
+Try again later.
+
+Troubleshoot this issue by visiting: 
+<a href="https://www.mathworks.com/support/lme/R2019b/4">https://www.mathworks.com/support/lme/R2019b/4</a>
+
+Diagnostic Information:
+Feature: Signal_Toolbox 
+License path: C:\Users\giovanni\AppData\Roaming\MathWorks\MATLAB\R2019b_licenses;C:\Program Files\MATLAB\R2019b\licenses\license.dat;C:\Program Files\MATLAB\R2019b\licenses\network.lic 
+Licensing error: -4,132. qrs_detect2 line:133
+09-Jul-2020 19:29:57-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:30:19-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:30:50-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 19:31:02-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:31:22-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+09-Jul-2020 19:31:35-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 19:32:06-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:32:20-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:32:21-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 19:32:26-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:32:27-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:32:44-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:32:46-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+09-Jul-2020 19:33:04-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:33:07-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 19:33:10-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:33:43-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:34:09-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+09-Jul-2020 19:34:22-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Jsave'. LAST_ECG_07_09_function line:786
+09-Jul-2020 19:34:49-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:35:06-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 19:35:18-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:35:18-> ERROR: file:     1 Key:A;  License checkout failed.
+License Manager Error -4
+Maximum number of users for Signal_Toolbox reached. 
+Try again later.
+
+Troubleshoot this issue by visiting: 
+<a href="https://www.mathworks.com/support/lme/R2019b/4">https://www.mathworks.com/support/lme/R2019b/4</a>
+
+Diagnostic Information:
+Feature: Signal_Toolbox 
+License path: C:\Users\giovanni\AppData\Roaming\MathWorks\MATLAB\R2019b_licenses;C:\Program Files\MATLAB\R2019b\licenses\license.dat;C:\Program Files\MATLAB\R2019b\licenses\network.lic 
+Licensing error: -4,132. qrs_detect2 line:133
+09-Jul-2020 19:35:18-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 19:35:26-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Jsave'. LAST_ECG_07_09_function line:786
+09-Jul-2020 19:35:51-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Jsave'. LAST_ECG_07_09_function line:786
+09-Jul-2020 19:36:14-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:36:50-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Jsave'. LAST_ECG_07_09_function line:786
+09-Jul-2020 19:37:42-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:37:42-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:37:46-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:38:34-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:39:03-> ERROR: file:     1 Key:A;  License checkout failed.
+License Manager Error -4
+Maximum number of users for Signal_Toolbox reached. 
+Try again later.
+
+Troubleshoot this issue by visiting: 
+<a href="https://www.mathworks.com/support/lme/R2019b/4">https://www.mathworks.com/support/lme/R2019b/4</a>
+
+Diagnostic Information:
+Feature: Signal_Toolbox 
+License path: C:\Users\giovanni\AppData\Roaming\MathWorks\MATLAB\R2019b_licenses;C:\Program Files\MATLAB\R2019b\licenses\license.dat;C:\Program Files\MATLAB\R2019b\licenses\network.lic 
+Licensing error: -4,132. qrs_detect2 line:133
+09-Jul-2020 19:39:32-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:39:34-> ERROR: file:     1 Key:A;  License checkout failed.
+License Manager Error -4
+Maximum number of users for Signal_Toolbox reached. 
+Try again later.
+
+Troubleshoot this issue by visiting: 
+<a href="https://www.mathworks.com/support/lme/R2019b/4">https://www.mathworks.com/support/lme/R2019b/4</a>
+
+Diagnostic Information:
+Feature: Signal_Toolbox 
+License path: C:\Users\giovanni\AppData\Roaming\MathWorks\MATLAB\R2019b_licenses;C:\Program Files\MATLAB\R2019b\licenses\license.dat;C:\Program Files\MATLAB\R2019b\licenses\network.lic 
+Licensing error: -4,132. qrs_detect2 line:133
+09-Jul-2020 19:39:43-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (2). LAST_ECG_07_09_function line:736
+09-Jul-2020 19:39:46-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:40:31-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 19:41:21-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 19:41:31-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Jsave'. LAST_ECG_07_09_function line:786
+09-Jul-2020 19:41:39-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:41:42-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:41:52-> ERROR: file:     1 Key:A;  License checkout failed.
+License Manager Error -4
+Maximum number of users for Signal_Toolbox reached. 
+Try again later.
+
+Troubleshoot this issue by visiting: 
+<a href="https://www.mathworks.com/support/lme/R2019b/4">https://www.mathworks.com/support/lme/R2019b/4</a>
+
+Diagnostic Information:
+Feature: Signal_Toolbox 
+License path: C:\Users\giovanni\AppData\Roaming\MathWorks\MATLAB\R2019b_licenses;C:\Program Files\MATLAB\R2019b\licenses\license.dat;C:\Program Files\MATLAB\R2019b\licenses\network.lic 
+Licensing error: -4,132. qrs_detect2 line:133
+09-Jul-2020 19:41:56-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 19:42:16-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:43:06-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+09-Jul-2020 19:43:14-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+09-Jul-2020 19:43:18-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 19:43:39-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Jsave'. LAST_ECG_07_09_function line:786
+09-Jul-2020 19:43:40-> ERROR: file:     1 Key:A;  License checkout failed.
+License Manager Error -4
+Maximum number of users for Signal_Toolbox reached. 
+Try again later.
+
+Troubleshoot this issue by visiting: 
+<a href="https://www.mathworks.com/support/lme/R2019b/4">https://www.mathworks.com/support/lme/R2019b/4</a>
+
+Diagnostic Information:
+Feature: Signal_Toolbox 
+License path: C:\Users\giovanni\AppData\Roaming\MathWorks\MATLAB\R2019b_licenses;C:\Program Files\MATLAB\R2019b\licenses\license.dat;C:\Program Files\MATLAB\R2019b\licenses\network.lic 
+Licensing error: -4,132. qrs_detect2 line:133
+09-Jul-2020 19:43:53-> ERROR: file:     1 Key:A;  License checkout failed.
+License Manager Error -4
+Maximum number of users for Signal_Toolbox reached. 
+Try again later.
+
+Troubleshoot this issue by visiting: 
+<a href="https://www.mathworks.com/support/lme/R2019b/4">https://www.mathworks.com/support/lme/R2019b/4</a>
+
+Diagnostic Information:
+Feature: Signal_Toolbox 
+License path: C:\Users\giovanni\AppData\Roaming\MathWorks\MATLAB\R2019b_licenses;C:\Program Files\MATLAB\R2019b\licenses\license.dat;C:\Program Files\MATLAB\R2019b\licenses\network.lic 
+Licensing error: -4,132. qrs_detect2 line:133
+09-Jul-2020 19:44:14-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Jsave'. LAST_ECG_07_09_function line:786
+09-Jul-2020 19:45:19-> ERROR: file:     1 Key:A;  License checkout failed.
+License Manager Error -4
+Maximum number of users for Signal_Toolbox reached. 
+Try again later.
+
+Troubleshoot this issue by visiting: 
+<a href="https://www.mathworks.com/support/lme/R2019b/4">https://www.mathworks.com/support/lme/R2019b/4</a>
+
+Diagnostic Information:
+Feature: Signal_Toolbox 
+License path: C:\Users\giovanni\AppData\Roaming\MathWorks\MATLAB\R2019b_licenses;C:\Program Files\MATLAB\R2019b\licenses\license.dat;C:\Program Files\MATLAB\R2019b\licenses\network.lic 
+Licensing error: -4,132. qrs_detect2 line:133
+09-Jul-2020 19:46:00-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:46:06-> ERROR: file:     1 Key:A;  License checkout failed.
+License Manager Error -4
+Maximum number of users for Signal_Toolbox reached. 
+Try again later.
+
+Troubleshoot this issue by visiting: 
+<a href="https://www.mathworks.com/support/lme/R2019b/4">https://www.mathworks.com/support/lme/R2019b/4</a>
+
+Diagnostic Information:
+Feature: Signal_Toolbox 
+License path: C:\Users\giovanni\AppData\Roaming\MathWorks\MATLAB\R2019b_licenses;C:\Program Files\MATLAB\R2019b\licenses\license.dat;C:\Program Files\MATLAB\R2019b\licenses\network.lic 
+Licensing error: -4,132. qrs_detect2 line:133
+09-Jul-2020 19:46:21-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:46:37-> ERROR: file:     1 Key:A;  License checkout failed.
+License Manager Error -4
+Maximum number of users for Signal_Toolbox reached. 
+Try again later.
+
+Troubleshoot this issue by visiting: 
+<a href="https://www.mathworks.com/support/lme/R2019b/4">https://www.mathworks.com/support/lme/R2019b/4</a>
+
+Diagnostic Information:
+Feature: Signal_Toolbox 
+License path: C:\Users\giovanni\AppData\Roaming\MathWorks\MATLAB\R2019b_licenses;C:\Program Files\MATLAB\R2019b\licenses\license.dat;C:\Program Files\MATLAB\R2019b\licenses\network.lic 
+Licensing error: -4,132. qrs_detect2 line:133
+09-Jul-2020 19:47:03-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 19:47:25-> ERROR: file:     1 Key:A;  License checkout failed.
+License Manager Error -4
+Maximum number of users for Signal_Toolbox reached. 
+Try again later.
+
+Troubleshoot this issue by visiting: 
+<a href="https://www.mathworks.com/support/lme/R2019b/4">https://www.mathworks.com/support/lme/R2019b/4</a>
+
+Diagnostic Information:
+Feature: Signal_Toolbox 
+License path: C:\Users\giovanni\AppData\Roaming\MathWorks\MATLAB\R2019b_licenses;C:\Program Files\MATLAB\R2019b\licenses\license.dat;C:\Program Files\MATLAB\R2019b\licenses\network.lic 
+Licensing error: -4,132. qrs_detect2 line:133
+09-Jul-2020 19:47:59-> ERROR: file:     1 Key:A;  License checkout failed.
+License Manager Error -4
+Maximum number of users for Signal_Toolbox reached. 
+Try again later.
+
+Troubleshoot this issue by visiting: 
+<a href="https://www.mathworks.com/support/lme/R2019b/4">https://www.mathworks.com/support/lme/R2019b/4</a>
+
+Diagnostic Information:
+Feature: Signal_Toolbox 
+License path: C:\Users\giovanni\AppData\Roaming\MathWorks\MATLAB\R2019b_licenses;C:\Program Files\MATLAB\R2019b\licenses\license.dat;C:\Program Files\MATLAB\R2019b\licenses\network.lic 
+Licensing error: -4,132. qrs_detect2 line:133
+09-Jul-2020 19:48:11-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:48:40-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:48:55-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+09-Jul-2020 19:49:05-> ERROR: file:     1 Key:A;  License checkout failed.
+License Manager Error -4
+Maximum number of users for Signal_Toolbox reached. 
+Try again later.
+
+Troubleshoot this issue by visiting: 
+<a href="https://www.mathworks.com/support/lme/R2019b/4">https://www.mathworks.com/support/lme/R2019b/4</a>
+
+Diagnostic Information:
+Feature: Signal_Toolbox 
+License path: C:\Users\giovanni\AppData\Roaming\MathWorks\MATLAB\R2019b_licenses;C:\Program Files\MATLAB\R2019b\licenses\license.dat;C:\Program Files\MATLAB\R2019b\licenses\network.lic 
+Licensing error: -4,132. qrs_detect2 line:133
+09-Jul-2020 19:50:35-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 19:51:13-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (3). LAST_ECG_07_09_function line:736
+09-Jul-2020 19:51:27-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:52:04-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 19:52:04-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 19:52:06-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 19:52:11-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 19:52:11-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 19:52:12-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 19:52:15-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 19:52:18-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 19:52:18-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 19:52:21-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 19:52:28-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 19:54:37-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 19:54:56-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 19:57:07-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 19:57:32-> ERROR: file:     1 Key:A;  License checkout failed.
+License Manager Error -4
+Maximum number of users for Signal_Toolbox reached. 
+Try again later.
+
+Troubleshoot this issue by visiting: 
+<a href="https://www.mathworks.com/support/lme/R2019b/4">https://www.mathworks.com/support/lme/R2019b/4</a>
+
+Diagnostic Information:
+Feature: Signal_Toolbox 
+License path: C:\Users\giovanni\AppData\Roaming\MathWorks\MATLAB\R2019b_licenses;C:\Program Files\MATLAB\R2019b\licenses\license.dat;C:\Program Files\MATLAB\R2019b\licenses\network.lic 
+Licensing error: -4,132. qrs_detect2 line:133
+09-Jul-2020 19:59:42-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 19:59:43-> ERROR: file:     1 Key:A;  License checkout failed.
+License Manager Error -4
+Maximum number of users for Signal_Toolbox reached. 
+Try again later.
+
+Troubleshoot this issue by visiting: 
+<a href="https://www.mathworks.com/support/lme/R2019b/4">https://www.mathworks.com/support/lme/R2019b/4</a>
+
+Diagnostic Information:
+Feature: Signal_Toolbox 
+License path: C:\Users\giovanni\AppData\Roaming\MathWorks\MATLAB\R2019b_licenses;C:\Program Files\MATLAB\R2019b\licenses\license.dat;C:\Program Files\MATLAB\R2019b\licenses\network.lic 
+Licensing error: -4,132. qrs_detect2 line:133
+09-Jul-2020 19:59:54-> ERROR: file:     1 Key:A;  License checkout failed.
+License Manager Error -4
+Maximum number of users for Signal_Toolbox reached. 
+Try again later.
+
+Troubleshoot this issue by visiting: 
+<a href="https://www.mathworks.com/support/lme/R2019b/4">https://www.mathworks.com/support/lme/R2019b/4</a>
+
+Diagnostic Information:
+Feature: Signal_Toolbox 
+License path: C:\Users\giovanni\AppData\Roaming\MathWorks\MATLAB\R2019b_licenses;C:\Program Files\MATLAB\R2019b\licenses\license.dat;C:\Program Files\MATLAB\R2019b\licenses\network.lic 
+Licensing error: -4,132. qrs_detect2 line:133
+09-Jul-2020 20:00:32-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:00:45-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:01:25-> ERROR: file:     1 Key:A;  License checkout failed.
+License Manager Error -4
+Maximum number of users for Signal_Toolbox reached. 
+Try again later.
+
+Troubleshoot this issue by visiting: 
+<a href="https://www.mathworks.com/support/lme/R2019b/4">https://www.mathworks.com/support/lme/R2019b/4</a>
+
+Diagnostic Information:
+Feature: Signal_Toolbox 
+License path: C:\Users\giovanni\AppData\Roaming\MathWorks\MATLAB\R2019b_licenses;C:\Program Files\MATLAB\R2019b\licenses\license.dat;C:\Program Files\MATLAB\R2019b\licenses\network.lic 
+Licensing error: -4,132. qrs_detect2 line:133
+09-Jul-2020 20:02:04-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:03:17-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:04:03-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:05:34-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:05:43-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:05:58-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:06:04-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:06:12-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:06:12-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:06:15-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:06:17-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:06:20-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:06:23-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:06:25-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:06:25-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:06:26-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:06:29-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:06:31-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:06:31-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:06:33-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:06:33-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:06:35-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:06:35-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:06:36-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:06:55-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:06:56-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:06:56-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:06:58-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:07:29-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:07:56-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:08:02-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:08:20-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:08:22-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:08:25-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:08:27-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:08:29-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:08:29-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:08:31-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:08:32-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:08:32-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:08:33-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:08:33-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:08:33-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:08:35-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:08:36-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:08:36-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:08:38-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:08:46-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:08:53-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+09-Jul-2020 20:09:07-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:09:07-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:09:07-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:09:08-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:09:08-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+09-Jul-2020 20:10:37-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:10:47-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:12:00-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:12:00-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:14:09-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:15:19-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:15:25-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:16:16-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'FP_'. cross_corr line:18
+09-Jul-2020 20:16:39-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:17:09-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'FP_'. cross_corr line:18
+09-Jul-2020 20:17:28-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:17:31-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:17:37-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:18:09-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (2). LAST_ECG_07_09_function line:736
+09-Jul-2020 20:19:47-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:19:48-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:21:07-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:21:31-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'FP_'. cross_corr line:18
+09-Jul-2020 20:21:49-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:21:50-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:22:16-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:11
+09-Jul-2020 20:22:19-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:24:08-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:24:44-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:24:55-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:25:02-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:25:19-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:25:35-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:25:44-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:25:48-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:26:17-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:26:49-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:11
+09-Jul-2020 20:27:05-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:27:08-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:27:38-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:28:00-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+09-Jul-2020 20:29:07-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:29:21-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:31:14-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+09-Jul-2020 20:31:16-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:31:54-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:32:26-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:32:44-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:33:17-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:33:44-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:34:33-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:34:44-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:35:19-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:35:24-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:35:32-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:35:39-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:35:42-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:35:50-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:36:04-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:36:55-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:37:46-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:38:08-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'FP_'. cross_corr line:18
+09-Jul-2020 20:38:29-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:39:25-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:11
+09-Jul-2020 20:40:03-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:40:25-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+09-Jul-2020 20:40:46-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:41:19-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:41:27-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:41:46-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:42:04-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:42:24-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:42:32-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:43:21-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:43:46-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:44:37-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:45:24-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:45:36-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:45:37-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:45:48-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:46:23-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:46:44-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:46:52-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:47:32-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:47:34-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+09-Jul-2020 20:48:19-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+09-Jul-2020 20:50:35-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+09-Jul-2020 20:51:03-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (106). LAST_ECG_07_09_function line:736
+09-Jul-2020 20:52:20-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 08:49:09-> ERROR: file:     1 Key:A;  Undefined function 'my_labels' for input arguments of type 'double'. get_12ECG_cls_ivo line:43
+10-Jul-2020 08:49:09-> ERROR: file:     1 Key:A;  Undefined function 'my_labels' for input arguments of type 'double'. get_12ECG_cls_ivo line:43
+10-Jul-2020 08:52:14-> ERROR: file:     1 Key:A;  Undefined function 'my_labels' for input arguments of type 'double'. get_12ECG_cls_ivo line:43
+10-Jul-2020 08:52:15-> ERROR: file:     1 Key:A;  Undefined function 'my_labels' for input arguments of type 'double'. get_12ECG_cls_ivo line:43
+10-Jul-2020 08:57:37-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 08:58:59-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 08:59:19-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 08:59:23-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 08:59:39-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 08:59:58-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:00:26-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 09:00:38-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:00:58-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+10-Jul-2020 09:01:11-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 09:01:42-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:01:56-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:01:57-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 09:02:02-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:02:03-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:02:20-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:02:22-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+10-Jul-2020 09:02:40-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:02:42-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 09:02:46-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:03:18-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:03:44-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+10-Jul-2020 09:03:56-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Jsave'. LAST_ECG_07_09_function line:786
+10-Jul-2020 09:04:24-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:04:40-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 09:04:52-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:04:53-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 09:05:00-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Jsave'. LAST_ECG_07_09_function line:786
+10-Jul-2020 09:05:25-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Jsave'. LAST_ECG_07_09_function line:786
+10-Jul-2020 09:05:48-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:06:24-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Jsave'. LAST_ECG_07_09_function line:786
+10-Jul-2020 09:07:15-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:07:15-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:07:19-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:08:07-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:09:05-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:09:15-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (2). LAST_ECG_07_09_function line:736
+10-Jul-2020 09:09:18-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:10:02-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 09:10:52-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 09:11:01-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Jsave'. LAST_ECG_07_09_function line:786
+10-Jul-2020 09:11:10-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:11:12-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:11:26-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 09:11:46-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:12:52-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+10-Jul-2020 09:13:00-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+10-Jul-2020 09:13:04-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 09:13:25-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Jsave'. LAST_ECG_07_09_function line:786
+10-Jul-2020 09:13:26-> ERROR: file:     1 Key:A;  Undefined function 'Brady' for input arguments of type 'double'. LAST_ECG_07_09_function line:1017
+10-Jul-2020 09:13:59-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Jsave'. LAST_ECG_07_09_function line:786
+10-Jul-2020 09:15:45-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:16:06-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:16:49-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 09:17:42-> ERROR: file:     1 Key:A;  Undefined function 'Brady' for input arguments of type 'double'. LAST_ECG_07_09_function line:1017
+10-Jul-2020 09:17:55-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:18:25-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:18:39-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+10-Jul-2020 09:18:49-> ERROR: file:     1 Key:A;  Undefined function 'Brady' for input arguments of type 'double'. LAST_ECG_07_09_function line:1017
+10-Jul-2020 09:21:10-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 09:21:48-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (3). LAST_ECG_07_09_function line:736
+10-Jul-2020 09:22:02-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:22:39-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:22:40-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:22:41-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:22:46-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:22:47-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:22:47-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:22:51-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:22:53-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:22:54-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:22:56-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:23:04-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:25:13-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 09:25:32-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:27:46-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 09:30:21-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 09:31:10-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:31:24-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:32:48-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:34:04-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:34:52-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:36:27-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:36:37-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:36:53-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:36:59-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:37:07-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:37:07-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 09:37:10-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:37:12-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:37:15-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:37:18-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:37:20-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 09:37:21-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:37:21-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:37:24-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:37:27-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:37:27-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:37:29-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:37:29-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 09:37:31-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:37:31-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:37:33-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:37:52-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:37:53-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:37:54-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:37:55-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:38:28-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:38:56-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:39:03-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:39:21-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:39:24-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:39:26-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:39:28-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:39:30-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:39:31-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:39:33-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:39:34-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:39:35-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:39:35-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:39:35-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:39:35-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:39:37-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:39:38-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:39:39-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:39:40-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:39:49-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:39:56-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+10-Jul-2020 09:40:11-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:40:11-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:40:11-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:40:12-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:40:12-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 09:41:43-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:41:54-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:43:09-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:43:10-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:45:24-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:46:41-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:46:48-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:47:40-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'FP_'. cross_corr line:18
+10-Jul-2020 09:48:04-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:48:35-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'FP_'. cross_corr line:18
+10-Jul-2020 09:48:55-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:48:59-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 09:49:05-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:49:39-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (2). LAST_ECG_07_09_function line:736
+10-Jul-2020 09:51:21-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:51:21-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:52:44-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:53:09-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'FP_'. cross_corr line:18
+10-Jul-2020 09:53:27-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 09:53:29-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:53:56-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:11
+10-Jul-2020 09:53:59-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:55:52-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:56:30-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:56:41-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 09:56:49-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:57:07-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:57:23-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 09:57:32-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:57:36-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:58:07-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 09:58:41-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:11
+10-Jul-2020 09:58:57-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:59:00-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 09:59:31-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 09:59:54-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+10-Jul-2020 10:01:04-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 10:01:19-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 10:03:16-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+10-Jul-2020 10:03:18-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 10:03:58-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 10:04:31-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 10:04:50-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 10:05:24-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 10:05:52-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 10:06:43-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 10:06:54-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 10:07:30-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 10:07:36-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 10:07:44-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 10:07:51-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 10:07:54-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 10:08:03-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 10:08:18-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 10:09:10-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 10:10:04-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 10:10:27-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'FP_'. cross_corr line:18
+10-Jul-2020 10:10:49-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 10:11:47-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:11
+10-Jul-2020 10:12:26-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 10:12:50-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+10-Jul-2020 10:13:10-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 10:13:45-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 10:13:53-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 10:14:13-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 10:14:32-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 10:14:52-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 10:15:00-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 10:15:51-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 10:16:18-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 10:17:11-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 10:18:00-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 10:18:13-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 10:18:14-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 10:18:25-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 10:19:02-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 10:19:23-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 10:19:31-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 10:20:13-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 10:20:15-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 10:21:02-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 10:23:20-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+10-Jul-2020 10:23:47-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (106). LAST_ECG_07_09_function line:736
+10-Jul-2020 10:25:09-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 18:40:15-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 18:41:41-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 18:42:02-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 18:42:06-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 18:42:22-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 18:42:42-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 18:43:11-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 18:43:24-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 18:43:45-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+10-Jul-2020 18:43:58-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 18:44:31-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 18:44:45-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 18:44:46-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 18:44:52-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 18:44:53-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 18:45:10-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 18:45:13-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+10-Jul-2020 18:45:32-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 18:45:34-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 18:45:38-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 18:46:12-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 18:46:39-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+10-Jul-2020 18:46:52-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Jsave'. LAST_ECG_07_09_function line:786
+10-Jul-2020 18:47:21-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 18:47:38-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 18:47:50-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 18:47:51-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 18:47:59-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Jsave'. LAST_ECG_07_09_function line:786
+10-Jul-2020 18:48:25-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Jsave'. LAST_ECG_07_09_function line:786
+10-Jul-2020 18:48:48-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 18:49:26-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Jsave'. LAST_ECG_07_09_function line:786
+10-Jul-2020 18:50:20-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 18:50:20-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 18:50:24-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 18:51:15-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 18:52:15-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 18:52:25-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (2). LAST_ECG_07_09_function line:736
+10-Jul-2020 18:52:29-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 18:53:15-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 18:54:07-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 18:54:18-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Jsave'. LAST_ECG_07_09_function line:786
+10-Jul-2020 18:54:26-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 18:54:29-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 18:54:43-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 18:55:04-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 18:56:12-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+10-Jul-2020 18:56:21-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+10-Jul-2020 18:56:24-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 18:56:47-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Jsave'. LAST_ECG_07_09_function line:786
+10-Jul-2020 18:56:47-> ERROR: file:     1 Key:A;  Undefined function 'Brady' for input arguments of type 'double'. LAST_ECG_07_09_function line:1017
+10-Jul-2020 18:57:23-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Jsave'. LAST_ECG_07_09_function line:786
+10-Jul-2020 18:59:14-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 18:59:36-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:00:20-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 19:01:17-> ERROR: file:     1 Key:A;  Undefined function 'Brady' for input arguments of type 'double'. LAST_ECG_07_09_function line:1017
+10-Jul-2020 19:01:30-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:02:01-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:02:16-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+10-Jul-2020 19:02:27-> ERROR: file:     1 Key:A;  Undefined function 'Brady' for input arguments of type 'double'. LAST_ECG_07_09_function line:1017
+10-Jul-2020 19:04:47-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 19:05:26-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (3). LAST_ECG_07_09_function line:736
+10-Jul-2020 19:05:41-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:06:20-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:06:20-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:06:22-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:06:28-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:06:29-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:06:29-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:06:33-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:06:35-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:06:35-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:06:38-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:06:46-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:09:01-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 19:09:21-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:11:40-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 19:14:23-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 19:15:15-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:15:29-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:16:56-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:18:16-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:19:05-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:20:45-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:20:54-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:21:10-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:21:16-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:21:25-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:21:25-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 19:21:28-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:21:30-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:21:33-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:21:36-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:21:38-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 19:21:39-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:21:39-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:21:42-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:21:45-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:21:45-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:21:47-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:21:47-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 19:21:49-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:21:49-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:21:50-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:22:10-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:22:11-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:22:12-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:22:13-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:22:46-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:23:15-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:23:21-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:23:40-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:23:43-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:23:45-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:23:47-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:23:50-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:23:50-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:23:52-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:23:53-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:23:54-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:23:54-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:23:55-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:23:55-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:23:56-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:23:58-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:23:58-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:24:00-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:24:08-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:24:15-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+10-Jul-2020 19:24:30-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:24:31-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:24:31-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:24:32-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:24:32-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1248). QRS_det line:74
+10-Jul-2020 19:27:42-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:27:53-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:29:10-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:29:10-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:31:26-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:32:40-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:32:47-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:33:40-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'FP_'. cross_corr line:18
+10-Jul-2020 19:34:04-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:34:36-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'FP_'. cross_corr line:18
+10-Jul-2020 19:34:56-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:35:00-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 19:35:06-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:35:41-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (2). LAST_ECG_07_09_function line:736
+10-Jul-2020 19:37:22-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:37:22-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:38:44-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:39:08-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'FP_'. cross_corr line:18
+10-Jul-2020 19:39:26-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 19:39:28-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:39:54-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:11
+10-Jul-2020 19:39:58-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:41:50-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:42:26-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:42:38-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 19:42:45-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:43:03-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:43:19-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 19:43:28-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:43:33-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:44:04-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 19:44:38-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:11
+10-Jul-2020 19:44:54-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:44:57-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 19:45:28-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:45:51-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+10-Jul-2020 19:47:00-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 19:47:15-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:49:11-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+10-Jul-2020 19:49:13-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:49:53-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 19:50:25-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 19:50:44-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:51:18-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 19:51:45-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:52:36-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 19:52:47-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:53:23-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 19:53:29-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 19:53:36-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:53:44-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:53:47-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:53:55-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:54:10-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 19:55:02-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 19:55:55-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 19:56:17-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'FP_'. cross_corr line:18
+10-Jul-2020 19:56:39-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 19:57:37-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:11
+10-Jul-2020 19:58:15-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:58:38-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+10-Jul-2020 19:58:59-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:59:33-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 19:59:41-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 20:00:01-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 20:00:19-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 20:00:39-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 20:00:47-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 20:01:38-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 20:02:04-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 20:02:57-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 20:03:45-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 20:03:58-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 20:03:59-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 20:04:10-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 20:04:47-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 20:05:08-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 20:05:16-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 20:05:57-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 20:05:59-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (0). cross_corr line:4
+10-Jul-2020 20:06:46-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+10-Jul-2020 20:09:06-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+10-Jul-2020 20:09:34-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (106). LAST_ECG_07_09_function line:736
+10-Jul-2020 20:10:53-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+15-Jul-2020 17:51:05-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+15-Jul-2020 17:53:17-> ERROR: file:     1 Key:A;  Array indices must be positive integers or logical values. cross_corr line:12
+15-Jul-2020 17:53:44-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (106). LAST_ECG_07_09_function line:736
+15-Jul-2020 17:54:58-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+16-Jul-2020 11:06:40-> ERROR: file:     1 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:14
+16-Jul-2020 11:06:41-> ERROR: file:     2 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:14
+16-Jul-2020 11:06:41-> ERROR: file:     3 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:14
+16-Jul-2020 11:06:41-> ERROR: file:     4 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:14
+16-Jul-2020 11:06:41-> ERROR: file:     5 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:14
+16-Jul-2020 11:06:41-> ERROR: file:     6 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:14
+16-Jul-2020 11:06:41-> ERROR: file:     7 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:14
+16-Jul-2020 11:06:42-> ERROR: file:     8 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:14
+16-Jul-2020 11:06:42-> ERROR: file:     9 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:14
+16-Jul-2020 11:06:42-> ERROR: file:    10 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:14
+16-Jul-2020 11:06:42-> ERROR: file:    11 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:14
+16-Jul-2020 11:06:42-> ERROR: file:    12 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:14
+16-Jul-2020 11:06:42-> ERROR: file:    13 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:14
+16-Jul-2020 11:06:42-> ERROR: file:    14 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:14
+16-Jul-2020 11:06:42-> ERROR: file:    15 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:14
+16-Jul-2020 11:06:42-> ERROR: file:    16 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:14
+16-Jul-2020 11:11:20-> ERROR: file:     1 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:15
+16-Jul-2020 11:11:20-> ERROR: file:     2 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:15
+16-Jul-2020 11:11:20-> ERROR: file:     3 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:15
+16-Jul-2020 11:11:21-> ERROR: file:     4 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:15
+16-Jul-2020 11:11:21-> ERROR: file:     5 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:15
+16-Jul-2020 11:11:21-> ERROR: file:     6 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:15
+16-Jul-2020 11:11:22-> ERROR: file:     7 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:15
+16-Jul-2020 11:11:22-> ERROR: file:     8 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:15
+16-Jul-2020 11:11:22-> ERROR: file:     9 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:15
+16-Jul-2020 11:11:22-> ERROR: file:    10 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:15
+16-Jul-2020 11:11:22-> ERROR: file:    11 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:15
+16-Jul-2020 11:11:22-> ERROR: file:    12 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:15
+16-Jul-2020 11:11:22-> ERROR: file:    13 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:15
+16-Jul-2020 11:11:23-> ERROR: file:    14 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:15
+16-Jul-2020 11:11:24-> ERROR: file:    15 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:15
+16-Jul-2020 11:11:24-> ERROR: file:    16 Key:A;  Reference to non-existent field 'ind_diagn'. save_CINC_ECG_IMG line:15
+16-Jul-2020 15:31:05-> ERROR: file:    58 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+16-Jul-2020 15:49:19-> ERROR: file:     1 Key:A;  Reference to non-existent field 'Layers'. valuta_trained_NN line:6
+16-Jul-2020 15:49:20-> ERROR: file:     1 Key:A;  Reference to non-existent field 'Layers'. valuta_trained_NN line:6
+16-Jul-2020 15:49:20-> ERROR: file:     1 Key:A;  Reference to non-existent field 'Layers'. valuta_trained_NN line:6
+16-Jul-2020 15:49:20-> ERROR: file:     1 Key:A;  Reference to non-existent field 'Layers'. valuta_trained_NN line:6
+16-Jul-2020 15:49:20-> ERROR: file:     1 Key:A;  Reference to non-existent field 'Layers'. valuta_trained_NN line:6
+16-Jul-2020 15:49:20-> ERROR: file:     1 Key:A;  Reference to non-existent field 'Layers'. valuta_trained_NN line:6
+16-Jul-2020 15:49:20-> ERROR: file:     1 Key:A;  Reference to non-existent field 'Layers'. valuta_trained_NN line:6
+16-Jul-2020 15:49:20-> ERROR: file:     1 Key:A;  Reference to non-existent field 'Layers'. valuta_trained_NN line:6
+16-Jul-2020 15:49:21-> ERROR: file:     1 Key:A;  Reference to non-existent field 'Layers'. valuta_trained_NN line:6
+16-Jul-2020 15:49:21-> ERROR: file:     1 Key:A;  Reference to non-existent field 'Layers'. valuta_trained_NN line:6
+16-Jul-2020 15:51:18-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'K_OPT_NN'. valuta_trained_NN line:14
+16-Jul-2020 15:51:18-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'K_OPT_NN'. valuta_trained_NN line:14
+16-Jul-2020 15:51:18-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'K_OPT_NN'. valuta_trained_NN line:14
+16-Jul-2020 15:51:18-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'K_OPT_NN'. valuta_trained_NN line:14
+16-Jul-2020 15:51:18-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'K_OPT_NN'. valuta_trained_NN line:14
+16-Jul-2020 15:51:18-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'K_OPT_NN'. valuta_trained_NN line:14
+16-Jul-2020 15:51:19-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'K_OPT_NN'. valuta_trained_NN line:14
+16-Jul-2020 15:51:19-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'K_OPT_NN'. valuta_trained_NN line:14
+16-Jul-2020 15:51:19-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'K_OPT_NN'. valuta_trained_NN line:14
+16-Jul-2020 15:51:19-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'K_OPT_NN'. valuta_trained_NN line:14
+16-Jul-2020 15:52:09-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Ypred'. valuta_trained_NN line:55
+16-Jul-2020 15:52:11-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Ypred'. valuta_trained_NN line:55
+16-Jul-2020 15:52:13-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Ypred'. valuta_trained_NN line:55
+16-Jul-2020 15:52:15-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Ypred'. valuta_trained_NN line:55
+16-Jul-2020 15:52:17-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Ypred'. valuta_trained_NN line:55
+16-Jul-2020 15:52:18-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Ypred'. valuta_trained_NN line:55
+16-Jul-2020 15:52:21-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Ypred'. valuta_trained_NN line:55
+16-Jul-2020 15:52:23-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Ypred'. valuta_trained_NN line:55
+16-Jul-2020 15:52:25-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Ypred'. valuta_trained_NN line:55
+16-Jul-2020 15:52:26-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'Ypred'. valuta_trained_NN line:55
+16-Jul-2020 16:20:37-> ERROR: file:    58 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+16-Jul-2020 16:25:21-> ERROR: file:   212 Key:A;  Unrecognized function or variable 'I_mean'. save_CINC_ECG_IMG line:7
+16-Jul-2020 17:41:21-> ERROR: file:    58 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+16-Jul-2020 17:46:32-> ERROR: file:   227 Key:A;  Unrecognized function or variable 'I_mean'. save_CINC_ECG_IMG line:7
+16-Jul-2020 18:45:00-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:45
+16-Jul-2020 18:45:01-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:45
+16-Jul-2020 18:45:03-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:45
+16-Jul-2020 18:45:05-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:45
+16-Jul-2020 18:45:07-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:45
+16-Jul-2020 18:45:09-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:45
+16-Jul-2020 18:45:11-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:45
+16-Jul-2020 18:45:13-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:45
+16-Jul-2020 18:45:15-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:45
+16-Jul-2020 18:45:17-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:45
+16-Jul-2020 19:03:00-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:03:02-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:03:04-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:03:06-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:03:09-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:03:10-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:03:13-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:03:15-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:03:17-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:03:18-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:06:40-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:06:42-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:06:43-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:06:45-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:06:47-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:06:49-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:06:51-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:06:55-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:06:56-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:06:58-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:09:33-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:09:35-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:09:37-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:09:39-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:09:41-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:09:42-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:09:45-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:09:47-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:09:49-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:09:51-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (24). get_12ECG_cls_ivo line:56
+16-Jul-2020 19:25:47-> ERROR: file:    58 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+16-Jul-2020 19:30:50-> ERROR: file:   227 Key:A;  Unrecognized function or variable 'I_mean'. save_CINC_ECG_IMG line:7
+16-Jul-2020 19:40:56-> ERROR: file:    58 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+16-Jul-2020 19:45:56-> ERROR: file:   227 Key:A;  Unrecognized function or variable 'I_mean'. save_CINC_ECG_IMG line:7
+16-Jul-2020 20:02:54-> ERROR: file:    58 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+16-Jul-2020 20:07:53-> ERROR: file:   227 Key:A;  Unrecognized function or variable 'I_mean'. save_CINC_ECG_IMG line:7
+16-Jul-2020 21:04:20-> ERROR: file:    58 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+16-Jul-2020 21:09:23-> ERROR: file:   227 Key:A;  Unrecognized function or variable 'I_mean'. save_CINC_ECG_IMG line:7
+16-Jul-2020 21:57:02-> ERROR: file:    58 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+16-Jul-2020 22:01:58-> ERROR: file:   227 Key:A;  Unrecognized function or variable 'I_mean'. save_CINC_ECG_IMG line:7
+16-Jul-2020 22:51:06-> ERROR: file:     1 Key:A;  Index exceeds the number of array elements (1). cross_corr line:4
+16-Jul-2020 22:56:59-> ERROR: file:     1 Key:A;  Unrecognized function or variable 'I_mean'. valuta_trained_NN line:9
