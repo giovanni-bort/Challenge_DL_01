@@ -28,6 +28,7 @@ classes_star=[];k=0;
 opt_IMG_DB=1;
 opt_resume=0;
 opt_NFold=1;
+maxEpochs = 10; % 30 %15;
 
 
 % opt_NFmax=input('opt_N_fold  0:all_files   [0] ');
@@ -132,7 +133,6 @@ NEW_test.Labels=ALL_IMG.Labels([L1_ind_tst]);
        % da aggiunger modifica trainin set 
        if(mod(numel(new_ind),2)==1), new_ind(end+1)=new_ind(end);end
 
-        maxEpochs = 2; % 10; % 30 %15;
 
        
 % [kk1,kk2,kk3 ]=find_multipli(numel(new_ind),26,28);
