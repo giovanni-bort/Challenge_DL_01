@@ -26,7 +26,7 @@ HDIAGN_star ={ 'IAVB' ;   'AF'    ; 'AFL'     ; 'Barady'  ; 'CRBBB'    ; 'IRBBB'
 N28=numel(DIAGN_star);
 
 
-IMG_files=dir([dir_IMG '\*.jpg']);
+IMG_files=dir([dir_IMG filesep 'ECG_*.jpg']);
 n_files=numel(IMG_files);
 if(opt_prn>0), fprintf(' presenti %6.0f files\n',n_files);end
 
@@ -39,7 +39,7 @@ for i_f=1:n_files
     [N_rec,N_DB,typ_DB,diagn]=extract_ndiagn(IMG_files(i_f).name);
     
     if(NORM_chk>0)
-        if(numel(diagn)>1), diagn=setdiff(diagn,22);end     % tolgo NORMAL in presenza di pi˘ diagnosi
+        if(numel(diagn)>1), diagn=setdiff(diagn,22);end     % tolgo NORMAL in presenza di pi√π diagnosi
     end
     
     tot_summ=tot_summ+numel(diagn);
