@@ -120,7 +120,7 @@ ii_0=find(list_tot==0);if(numel(ii_0)>0),fprintf('ERROR *** Zero:');fprintf('%6.
 files_ok=[];full_files_ok=[];
 for i_f=list_ok
     files_ok{end+1}=IMG_files(i_f).name;
-     full_files_ok{end+1}=[IMG_files(i_f).folder '\' IMG_files(i_f).name];
+     full_files_ok{end+1}=[IMG_files(i_f).folder filesep IMG_files(i_f).name];
 
 end
 
