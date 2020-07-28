@@ -5,6 +5,9 @@
 %  opt_IMG_DB  or dir_CINC_DL_IMG
 % 
 % 
+
+matlab.addons.supportpackage.internal.explorer.showSupportPackages('GOOGLENET', 'tripwire');
+
 classes_star=[];k=0;
  for i=[1:4 6:23 25:26],k=k+1;classes_star{k}=num2str(i,'%02.0f');end
 % for i=1:28,classes{i}=num2str(i,'%02.0f');end
