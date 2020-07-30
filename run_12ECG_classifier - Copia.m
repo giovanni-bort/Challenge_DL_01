@@ -1,4 +1,5 @@
-function [score, label] = run_12ECG_classifier(data,header_data,classes, model,STRUCT,ECG_DL_directory,num_file,file_key)
+function [score, label] = prova_12ECG_classifier(data,header_data,classes, model,STRUCT,ECG_DL_directory,num_file,file_key)
+
 
     num_classes = length(classes);
 
