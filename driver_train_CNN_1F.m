@@ -164,37 +164,40 @@ NEW_train = TEMP_IMG;
 
 %net = googlenet;
 
-load net.mat
+% % % load net.mat
+% % % 
+% % % lgraph = layerGraph(net);
+% % % % % % numberOfLayers = numel(lgraph.Layers);
+% % % % % % figure('Units','normalized','Position',[0.1 0.1 0.8 0.8]);
+% % % % % % plot(lgraph)
+% % % % % % title(['GoogLeNet Layer Graph: ',num2str(numberOfLayers),' Layers']);
+% % % 
+% % % % *** Modify GoogLeNet Network Parameters ***
+% % % % To prevent overfitting, a dropout layer is used. A dropout layer randomly sets input elements to zero
+% % % % with a given probability. See dropoutLayer for more information. 
+% % % % The default probability is 0.5. Replace the final dropout layer in the network,
+% % % % 'pool5-drop_7x7_s1', with a dropout layer of probability 0.6.
+% % % newDropoutLayer = dropoutLayer(0.6,'Name','new_Dropout');
+% % % lgraph = replaceLayer(lgraph,'pool5-drop_7x7_s1',newDropoutLayer);
+% % % 
+% % % %  Replace the fully connected layer 'loss3-classifier' with a new fully connected layer with the number 
+% % % % of filters equal to the number of classes. To learn faster in the new layers than in the transferred layers, 
+% % % % increase the learning rate factors of the fully connected layer.
+% % % 
+% % % numClasses = numel(categories(NEW_train.Labels));
+% % % fprintf('***** numero classes: %6.0f\n',numClasses);
+% % % newConnectedLayer = fullyConnectedLayer(numClasses,'Name','new_fc',...
+% % %     'WeightLearnRateFactor',5,'BiasLearnRateFactor',5);
+% % % lgraph = replaceLayer(lgraph,'loss3-classifier',newConnectedLayer);
+% % % 
+% % % % The classification layer specifies the output classes of the network. 
+% % % % Replace the classification layer with a new one without class labels. 
+% % % % trainNetwork automatically sets the output classes of the layer at training time.
+% % % newClassLayer = classificationLayer('Name','new_classoutput');
+% % % lgraph = replaceLayer(lgraph,'output',newClassLayer);
 
-lgraph = layerGraph(net);
-% % % numberOfLayers = numel(lgraph.Layers);
-% % % figure('Units','normalized','Position',[0.1 0.1 0.8 0.8]);
-% % % plot(lgraph)
-% % % title(['GoogLeNet Layer Graph: ',num2str(numberOfLayers),' Layers']);
 
-% *** Modify GoogLeNet Network Parameters ***
-% To prevent overfitting, a dropout layer is used. A dropout layer randomly sets input elements to zero
-% with a given probability. See dropoutLayer for more information. 
-% The default probability is 0.5. Replace the final dropout layer in the network,
-% 'pool5-drop_7x7_s1', with a dropout layer of probability 0.6.
-newDropoutLayer = dropoutLayer(0.6,'Name','new_Dropout');
-lgraph = replaceLayer(lgraph,'pool5-drop_7x7_s1',newDropoutLayer);
-
-%  Replace the fully connected layer 'loss3-classifier' with a new fully connected layer with the number 
-% of filters equal to the number of classes. To learn faster in the new layers than in the transferred layers, 
-% increase the learning rate factors of the fully connected layer.
-
-numClasses = numel(categories(NEW_train.Labels));
-fprintf('***** numero classes: %6.0f\n',numClasses);
-newConnectedLayer = fullyConnectedLayer(numClasses,'Name','new_fc',...
-    'WeightLearnRateFactor',5,'BiasLearnRateFactor',5);
-lgraph = replaceLayer(lgraph,'loss3-classifier',newConnectedLayer);
-
-% The classification layer specifies the output classes of the network. 
-% Replace the classification layer with a new one without class labels. 
-% trainNetwork automatically sets the output classes of the layer at training time.
-newClassLayer = classificationLayer('Name','new_classoutput');
-lgraph = replaceLayer(lgraph,'output',newClassLayer);
+load lgraph.mat
 
 % *****  Set Training Options and Train GoogLeNet *******
 % Set the random seed to the default value.
